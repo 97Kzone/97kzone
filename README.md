@@ -11,7 +11,7 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=97kzone&layout=compact&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mmnm3)](https://solved.ac/mmnm3/)
-[![commitcombo](http://commitcombo.com/theme?user=mmnm3&theme=DeepOcean&v=1})](https://github.com/devxb/CommitCombo)
+
 </div>
   
 <!--
