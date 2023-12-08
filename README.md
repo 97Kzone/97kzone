@@ -8,7 +8,7 @@
 ---
 
 <div align=center>
-  
+<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=97kzone&layout=compact&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mmnm3)](https://solved.ac/mmnm3/)
 
