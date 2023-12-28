@@ -7,8 +7,6 @@
 <h3 align=center> 💪 1일 1커밋 </h3>
 <div align=center>
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=97kzone)](https://git.io/streak-stats) 
-
 </div>
 
 <div align=center>
